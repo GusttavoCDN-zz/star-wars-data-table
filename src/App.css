@@ -1,0 +1,23 @@
+@import url(https://allfont.net/allfont.css?fonts=star-jedi);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Star Jedi', arial;
+}
+
+body {
+  background: #000 url(//cssanimation.rocks/demo/starwars/images/bg.jpg);
+  color: white;
+}
+
+main {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 3rem;
+}
