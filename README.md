@@ -4,7 +4,7 @@ Projeto react feito como parte do curriculo de Desenvolvimento Web da Trybe.
 
 Uma pagina que busca dados sobre planetas do universo de Star Wars e renderiza em uma tabela.
 
-[Preview](https://gusttavocdn.github.io/star-wars-planets-datable/)
+[Preview](https://gusttavocdn.github.io/star-wars-data-table/)
 
 ## Habilidates Praticadas
 
